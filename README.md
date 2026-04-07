@@ -22,4 +22,4 @@ Python 3.11 | Pandas | Celery | Redis | SQLAlchemy | Airflow | PostgreSQL
 - Zero failed pipeline runs in 6 months of production
 
 ## Contact
-Built by **Shebin S Illikkal** — [Shebinsillikkl@gmail.com](mailto:Shebinsillikkl@gmail.com)
+Built by **Shebin S Illikkal** — [Shebinsillikkal@gmail.com](mailto:Shebinsillikkal@gmail.com)
